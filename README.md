@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Syarif
+### Hi there 👋
 
 <!--
 **Arifian14/Arifian14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
