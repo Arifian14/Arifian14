@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, my name is Achmad Syarif Arifiansyah. I'm an Information System Student at University of Brawijaya, who interest in Web Development.
+
 <!--
 **Arifian14/Arifian14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
